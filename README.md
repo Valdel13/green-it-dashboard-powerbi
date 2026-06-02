@@ -73,3 +73,17 @@ Ce projet vise à analyser la consommation énergétique et l’empreinte carbon
 - DAX (mesures simples)
 - Data storytelling
 - Sensibilité Green IT
+
+---
+
+## 📸 Aperçu du dashboard
+
+![Vue globale](images/dashboard_overview.png)
+
+![KWH](images/kwh_country.png)
+
+![KWH](images/kwh_regions.png)
+
+![CO2](images/co2_by_country.png)
+
+![CO2](images/co2_by_FR_regions.png)
