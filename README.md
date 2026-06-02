@@ -1,4 +1,6 @@
-# 🌱 Analyse de l'impact environnemental d’un parc informatique multi-sites
+# 🌱 Green IT Dashboard – Analyse de l’impact environnemental d’un parc informatique
+
+## Power BI | Data Analysis | Sustainability
 
 ---
 
